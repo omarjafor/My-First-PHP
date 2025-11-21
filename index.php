@@ -16,7 +16,7 @@
     $food = 'Burger';
     print 'We want '. $food;
 
-    echo "Hello, PHP is working! november 27th";
+    echo "Hello, PHP is working! november 21st";
     print $food.$Food;
 
     echo "Hello, PHP is working!";
