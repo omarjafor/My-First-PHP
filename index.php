@@ -21,7 +21,6 @@
     echo "Hello, PHP is working!";
     echo 'Hello, this is new testing php';
     print 'Hello, this is new testing php 2';
-    echo 'Hello, this is new testing php';
     ?>
 </body>
 </html>
