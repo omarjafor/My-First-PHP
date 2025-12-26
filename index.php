@@ -13,6 +13,8 @@
 
     echo 'I Love '. $Food;
     print 'I love php new php';
+    $food = 'Burger';
+    print 'We want '. $food;
     ?>
 </body>
 </html>
