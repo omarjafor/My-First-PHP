@@ -12,7 +12,7 @@
     $Food = 'Pizza';
 
     echo 'I Love '. $Food;
-    
+    print 'I love php new php';
     ?>
 </body>
 </html>
