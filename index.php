@@ -19,6 +19,7 @@
     print $food.$Food;
 
     echo "Hello, PHP is working!";
+    echo 'Hello, this is new testing php';
     ?>
 </body>
 </html>
