@@ -17,6 +17,8 @@
     print 'We want '. $food;
 
     print $food.$Food;
+
+    echo "Hello, PHP is working!";
     ?>
 </body>
 </html>
