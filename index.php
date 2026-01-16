@@ -15,6 +15,8 @@
     print 'I love php new php';
     $food = 'Burger';
     print 'We want '. $food;
+
+    print $food.$Food;
     ?>
 </body>
 </html>
