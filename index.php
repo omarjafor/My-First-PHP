@@ -15,7 +15,6 @@
     print 'I love php new php';
     $food = 'Burger';
     print 'We want '. $food;
-    print 'We want '. $food;
 
     echo "Hello, PHP is working! november 21st";
     print $food.$Food;
